@@ -3,9 +3,6 @@
 # bonjour
 /* bonjour */
 
-
-
-
 echo "hello php" ;
 echo "<br>";
 
